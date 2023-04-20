@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 -->
 ## 📫 How to reach me
 * [Telegram](https://t.me/karavanets)
-* <a href='mailto:dront22rus@mail.ru'>dront22rus@mail.ru</a>
+* <a href='mailto:skaravanets@mail.ru'>skaravanets@mail.ru</a>
