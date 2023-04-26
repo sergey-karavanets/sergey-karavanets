@@ -1,5 +1,5 @@
 ## Hi there 👋
-Junior Python Developer with experience in personal projects and a great desire to learn.
+Python Developer with experience in personal projects and a great desire to learn.
 <!--
 **sergey-karavanets/sergey-karavanets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
