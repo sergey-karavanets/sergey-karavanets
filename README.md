@@ -6,10 +6,10 @@ Python Developer with experience in personal projects and a great desire to lear
 Here are some ideas to get you started:
 -->
 ## 🛠 Technical Stack
-*  Python, Django
-*  MySQL, SQLite
-*  Docker
-*  GitHub
+*  Python, Django, Django REST framework
+*  PostgreSQL
+*  Celery, Redis
+*  Git, Docker
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
