@@ -1,5 +1,5 @@
 ## Hi there 👋
-Python Developer with more than 1 years of commertial experience.
+Python Developer with about 2 years of commercial experience.
 <!--
 **sergey-karavanets/sergey-karavanets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
