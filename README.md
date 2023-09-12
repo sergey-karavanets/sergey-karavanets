@@ -6,9 +6,9 @@ Python Developer with about 2 years of commercial experience.
 Here are some ideas to get you started:
 -->
 ## 🛠 Technical Stack
-*  Python, Django, Django REST framework
+*  Python, Django, Flask, Django REST framework
 *  PostgreSQL
-*  Celery, Redis
+*  Celery, Swagger
 *  Git, Docker
 <!--
 - 🔭 I’m currently working on ...
